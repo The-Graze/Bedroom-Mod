@@ -62,7 +62,7 @@ namespace Bedroom_Mod
 
 		void Update()
 		{
-            if (!GameObject.Find("_Teleporter(Clone)").activeSelf)
+            /*if (!GameObject.Find("_Teleporter(Clone)").activeSelf)
             {
                 GameObject.Find("Bed stump").SetActive(false);
                 GameObject.Find("pillow stump").SetActive(false);
@@ -71,7 +71,7 @@ namespace Bedroom_Mod
             else
             {
                 GameObject.Find("Bed stump").SetActive(true);
-                GameObject.Find("pillow stump").SetActive(true);
+                GameObject.Find("pillow stump").SetActive(true); */
             }
         }
 
