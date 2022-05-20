@@ -1,5 +1,5 @@
 # Bedroom-Mod
-![preview](https://user-images.githubusercontent.com/82724623/169318605-fed49a6a-86fb-4c19-9f42-db27ad2f17c4.png)
+![image](https://user-images.githubusercontent.com/82724623/169586834-08282f98-cdeb-4ded-ae84-f08e04d7a630.png)
 Add Cosmetic furniture into the Stump including a bed and other decorative items
 
 
