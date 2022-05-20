@@ -26,7 +26,7 @@ namespace Bedroom_Mod
 
             HarmonyPatches.ApplyHarmonyPatches();
             Utilla.Events.GameInitialized += OnGameInitialized;
-			GameObject.Find("bedroom").SetActive(true);
+			bedroom.SetActive(true);
 			GameObject.Find("screen").SetActive(false);
 			GameObject.Find("COC Text").SetActive(false);
 			GameObject.Find("CodeOfConduct").SetActive(false);
@@ -40,7 +40,7 @@ namespace Bedroom_Mod
 
 			HarmonyPatches.RemoveHarmonyPatches();
 			Utilla.Events.GameInitialized -= OnGameInitialized;
-			GameObject.Find("bedroom").SetActive(false);
+			bedroom.SetActive(false);
 			GameObject.Find("screen").SetActive(true);
 			GameObject.Find("COC Text").SetActive(true);
 			GameObject.Find("CodeOfConduct").SetActive(true);
@@ -57,12 +57,23 @@ namespace Bedroom_Mod
 			GameObject.Find("screen").SetActive(false);
 			GameObject.Find("COC Text").SetActive(false);
 			GameObject.Find("CodeOfConduct").SetActive(false);
+			GameObject.Find("custom Monitors Screens").SetActive(false);
 		}
 
 		void Update()
 		{
-			/* Code here runs every frame when the mod is enabled */
-		}
+            if (!GameObject.Find("_Teleporter(Clone)").activeSelf)
+            {
+                GameObject.Find("Bed stump").SetActive(false);
+                GameObject.Find("pillow stump").SetActive(false);
+
+            }
+            else
+            {
+                GameObject.Find("Bed stump").SetActive(true);
+                GameObject.Find("pillow stump").SetActive(true);
+            }
+        }
 
 		/* This attribute tells Utilla to call this method when a modded room is joined */
 		[ModdedGamemodeJoin]
