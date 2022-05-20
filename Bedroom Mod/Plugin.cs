@@ -62,17 +62,7 @@ namespace Bedroom_Mod
 
 		void Update()
 		{
-            /*if (!GameObject.Find("_Teleporter(Clone)").activeSelf)
-            {
-                GameObject.Find("Bed stump").SetActive(false);
-                GameObject.Find("pillow stump").SetActive(false);
 
-            }
-            else
-            {
-                GameObject.Find("Bed stump").SetActive(true);
-                GameObject.Find("pillow stump").SetActive(true); */
-            }
         }
 
 		/* This attribute tells Utilla to call this method when a modded room is joined */
