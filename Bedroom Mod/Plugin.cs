@@ -27,9 +27,7 @@ namespace Bedroom_Mod
             HarmonyPatches.ApplyHarmonyPatches();
             Utilla.Events.GameInitialized += OnGameInitialized;
 			bedroom.SetActive(true);
-			GameObject.Find("screen").SetActive(false);
-			GameObject.Find("COC Text").SetActive(false);
-			GameObject.Find("CodeOfConduct").SetActive(false);
+			GameObject.Find("custom screen").SetActive(false);
 		}
 
         void OnDisable()
@@ -57,11 +55,10 @@ namespace Bedroom_Mod
 			GameObject.Find("screen").SetActive(false);
 			GameObject.Find("COC Text").SetActive(false);
 			GameObject.Find("CodeOfConduct").SetActive(false);
-			GameObject.Find("custom Monitors Screens").SetActive(false);
 		}
 
 		void Update()
-		{
+		{	
 
         }
 
