@@ -8,5 +8,8 @@ Add Cosmetic furniture into the Game including a bed and other decorative items
 
 ![image](https://user-images.githubusercontent.com/82724623/170801421-abf5cb1f-f0cc-46da-9b04-93d3f273ad71.png)
 
-![image](https://user-images.githubusercontent.com/82724623/170801432-11d80381-4d3d-47c2-87d2-989228b7b3ce.png)
+![image](https://user-images.githubusercontent.com/82724623/170946262-bd7b14b8-9271-4616-a28f-5f482f797c04.png)
+
+![image](https://user-images.githubusercontent.com/82724623/170946221-2ef0f8ce-63f5-42ca-a7b2-be3a6c1dccfe.png)
+
 
