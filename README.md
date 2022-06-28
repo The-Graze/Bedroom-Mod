@@ -1,4 +1,13 @@
 # Bedroom-Mod
+
+
+
+# NO LONGER UPDATED
+a better mods released that dose a simalr thing that lets you decroate stump yourself and i will be placing my bedroom with that mod
+https://github.com/wryser/Gorilla-Homes/releases
+
+
+
 Add Cosmetic furniture into the Game including a bed and other decorative items
 ![image](https://user-images.githubusercontent.com/82724623/170801509-f2f0dc58-244e-4dff-9599-08ac2d176f62.png)
 
