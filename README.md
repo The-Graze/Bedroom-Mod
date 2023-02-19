@@ -2,7 +2,8 @@
 
 
 
-# NO LONGER UPDATED
+# Update Soon
+
 a better mods released that dose a simalr thing that lets you decroate stump yourself and i will be placing my bedroom with that mod
 https://github.com/wryser/Gorilla-Homes/releases
 
