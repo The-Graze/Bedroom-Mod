@@ -1,5 +1,7 @@
 # Bedroom-Mod
 
+#Huge thanks to (https://github.com/RealGrant)[RealGrant] for the help with making my first mod and giving me the scripts to export assetbundles (that i still use now)
+i wouldn't have made mods without them or you and i apoligise for taking you off this page when i got excited the mod was big
 
 
 # Update Soon
