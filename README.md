@@ -8,7 +8,7 @@ i wouldn't have made mods without them or you and i apoligise for taking you off
 
 
 Add Cosmetic furniture into the Game including a bed and other decorative items
-![image](https://user-images.githubusercontent.com/82724623/170801509-f2f0dc58-244e-4dff-9599-08ac2d176f62.png)
+![{6E878AB6-BD2A-4283-B826-E9834F40CC49}](https://github.com/user-attachments/assets/c7388a3c-8035-4d98-a078-5ba0080cf1c2)
 
 
 
